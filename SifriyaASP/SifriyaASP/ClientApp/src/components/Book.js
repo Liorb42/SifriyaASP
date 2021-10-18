@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 
 export class Book extends Component {
-    static displayName = Book.name;
 
     constructor(props) {
         super(props);
